@@ -1,5 +1,5 @@
-'''The program opens the browser with the first five results
-in new cards.'''
+'''The program opens the browser with the first five results, each 
+in new card.'''
 
 import requests, webbrowser, bs4
 
