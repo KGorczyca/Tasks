@@ -11,13 +11,13 @@
 * Purpose: master the basics of Python
 ## Technologies
 * Python - version 3.7
-  *moduły:
-    *requests
-    *beautifulsoup4
-    *selenium
-    *openpyxl
-    *webbrowser
-    *os
+  **moduły:
+    -requests
+    -beautifulsoup4
+    -selenium
+    -openpyxl
+    -webbrowser
+    -os
 ## Status
 Project is: _in progress_, I am still learning Python so I have to do  more and more exercises.
 ## Contact
