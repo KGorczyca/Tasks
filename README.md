@@ -8,7 +8,7 @@
 * [Contact](#contact)
 
 ## General info
-* Purpose: master the basics of Python
+* Purpose: to master the basics of Python
 ## Technologies
 * Python - version 3.7
   ##*moduły:
@@ -19,6 +19,6 @@
     -webbrowser
     -os
 ## Status
-Project is: _in progress_, I am still learning Python so I have to do  more and more exercises.
+Project is: _in progress_, I am continuously studying Python so I have to do  more and more exercises.
 ## Contact
 Created by kmgorczyca@wp.pl, https://www.linkedin.com/in/katarzyna-gorczyca-ostrowska-48018a70/
