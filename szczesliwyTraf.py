@@ -1,6 +1,5 @@
-''' Projekt - wyszukiwanie typu 'szczęśliwy traf' w Google.
-Program otwiera przeglądarkę wraz z pierwszymi pięcioma wynikami
-w nowych kartach.'''
+'''The program opens the browser with the first five results
+in new cards.'''
 
 import requests, webbrowser, bs4
 
