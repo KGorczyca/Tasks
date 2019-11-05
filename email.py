@@ -1,3 +1,4 @@
+'''Program loguje się konta e-mail'''
 from selenium import webdriver
 
 browser = webdriver.Firefox()
