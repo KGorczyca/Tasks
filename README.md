@@ -11,7 +11,7 @@
 * Purpose: master the basics of Python
 ## Technologies
 * Python - version 3.7
-  **moduły:
+  ##*moduły:
     -requests
     -beautifulsoup4
     -selenium
