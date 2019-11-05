@@ -8,7 +8,7 @@
 * [Contact](#contact)
 
 ## General info
-Add more general information about project. What the purpose of the project is? Motivation?
+* Purpose: master the basics of Python
 ## Technologies
 * Python - version 3.7
 ## Status
