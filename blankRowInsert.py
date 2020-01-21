@@ -1,3 +1,6 @@
+'''Program wstawiający pusty wiersz. Program pobiera dwie liczby od użytkownika określane jako numN oraz numM. 
+Począwszy od wiersza N, program powinien wstawić w arkuszu kalkulacyjnym M pustych wierszy'''
+
 import openpyxl, os
 wb = openpyxl.load_workbook('produceSales.xlsx')
 

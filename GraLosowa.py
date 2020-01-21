@@ -1,4 +1,4 @@
-'''Zasady gry: komputer wymyśli sobie liczbę od 0 do 100, a Ty musisz ją zgadnąć'''
+'''The rules of the game: the computer will come up with numbers from 0 to 100, and you must guess it '''
 
 
 
